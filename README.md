@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋🏼! My name is Maguire and I'm a student, from Indiana</h2>
+<h2 align="left">Hi 👋🏼!  My name is Maguire and I'm a student, from Indiana</h2>
 
 ###
 
