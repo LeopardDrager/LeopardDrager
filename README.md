@@ -52,6 +52,9 @@
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
+  <img width = "12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="android studio logo"  />
+  <img width="12" />
 </div>
 
 ###
