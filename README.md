@@ -45,6 +45,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="android studio logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
@@ -52,9 +54,8 @@
   <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
-  <img width = "12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="android studio logo"  />
   <img width="12" />
+  
 </div>
 
 ###
